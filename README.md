@@ -1,7 +1,7 @@
 # pixi-viewport - PixiJS Viewport Kit
 A highly configurable viewport/2D camera designed to work with pixi.js.
 
-Features include dragging, pinch-to-zoom, mouse wheel zooming, decelerated dragging, follow target, aniamte, snap to point, snap to zoom, clamping, bouncing on edges, and move on mouse edges. See live example to try out all of these features.
+Features include dragging, pinch-to-zoom, mouse wheel zooming, decelerated dragging, follow target, animate, snap to point, snap to zoom, clamping, bouncing on edges, and move on mouse edges. See live example to try out all of these features.
 
 All features are configurable and removable, so set up the viewport to be exactly what you need.
 
